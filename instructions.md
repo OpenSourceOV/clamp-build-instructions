@@ -176,13 +176,13 @@ We have suggested to use 4-pin mini molex connectors to connect the lights to th
 
 7. Insert the pins one at a time into the housing. These can only go in one way but might need a little extra push with the pliers to get them to clip all the way in. If they're not going in, possible causes might be:
 
-* Too much solder has been applied to the wire 
-* There is solder outside the channel where the wire sits
-* The wire is too far in to pin
-* The pin is bent/deformed
-* The two little flaps on the side of the pin that clip into a groove in the housing to lock the pin in place have been damaged/deformed.
+    * Too much solder has been applied to the wire 
+    * There is solder outside the channel where the wire sits
+    * The wire is too far in to pin
+    * The pin is bent/deformed
+    * The two little flaps on the side of the pin that clip into a groove in the housing to lock the pin in place have been damaged/deformed.
 
-It doesn't take much pin damage for it to be difficult/impossible to get these mini-molex pins into the housing. Unfortunately in most cases you just need to start again with a new set of connectors. The larger molex connectors that will be used for the power cable are easier and have a more obvious 'click' when you insert the pin into the housing, but for these you just need to ensure that the pin is all the way in and can't be pulled out when you try (but don't pull too hard!).
+    It doesn't take much pin damage for it to be difficult/impossible to get these mini-molex pins into the housing. Unfortunately in most cases you just need to start again with a new set of connectors. The larger molex connectors that will be used for the power cable are easier and have a more obvious 'click' when you insert the pin into the housing, but for these you just need to ensure that the pin is all the way in and can't be pulled out when you try (but don't pull too hard!).
 
     ![](./images/IMG_6017.jpg)
 
