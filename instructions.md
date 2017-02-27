@@ -5,7 +5,7 @@
 
 Quantity | Part | Supplier
 ---------|------|---------
-1 (4 parts in total)|3D-printed clamp housing parts|Models and more information available [here](http://opensourceov.org/)
+1|3D-printed clamp housing parts (4 parts in total)|Models and more information available [here](http://opensourceov.org/).
 1|3D-printed light box foot|Models and more information available [here](http://opensourceov.org/)
 4|50mm Superbright LED light strips|Usually come in long strips that can be cut into smaller sections. Typically used for accent lighting in kitchens etc. Can be purchased online from a number of places - these are some from Jaycar - [Ultra Bright IP67 Waterproof LED Flexible Strip Light](https://www.jaycar.com.au/ultra-bright-ip67-waterproof-led-flexible-strip-light/p/ZD0579). Note **50mm** sections are required.
 1|Raspberry Pi Camera v2 module| See RaspberryPi.org for [more information](https://www.raspberrypi.org/products/camera-module-v2/) and list of suppliers
