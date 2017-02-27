@@ -3,7 +3,7 @@
 
 ## Parts
 
-Quantity | Part | Supplier
+Quantity | Part | Additional information
 ---------|------|---------
 1|3D-printed clamp housing parts (4 parts in total)|Models and more information available [here](http://opensourceov.org/).
 1|3D-printed light box foot|Models and more information available [here](http://opensourceov.org/)
