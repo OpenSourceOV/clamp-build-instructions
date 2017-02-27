@@ -7,7 +7,7 @@ Quantity | Part | Additional information
 ---------|------|---------
 1|3D-printed clamp housing parts (4 parts in total)|Models and more information available [here](http://opensourceov.org/).
 1|3D-printed light box foot|Models and more information available [here](http://opensourceov.org/)
-4|50mm Superbright LED light strips|Usually come in long strips that can be cut into smaller sections. Typically used for accent lighting in kitchens etc. Can be purchased online from a number of places - these are some from Jaycar - [Ultra Bright IP67 Waterproof LED Flexible Strip Light](https://www.jaycar.com.au/ultra-bright-ip67-waterproof-led-flexible-strip-light/p/ZD0579). Note **50mm** sections are required.
+4|50mm Superbright LED light strip sections|Usually come in long strips that can be cut into smaller sections. Typically used for accent lighting in kitchens etc. Can be purchased online from a number of places - these are some from Jaycar - [Ultra Bright IP67 Waterproof LED Flexible Strip Light](https://www.jaycar.com.au/ultra-bright-ip67-waterproof-led-flexible-strip-light/p/ZD0579). Note **50mm** sections are required.
 1|Raspberry Pi Camera v2 module| See RaspberryPi.org for [more information](https://www.raspberrypi.org/products/camera-module-v2/) and list of suppliers
 1|Rasberry Pi Camera long cable| Although the Camera comes with a short cable, a long cable makes life much easier. Most Raspberry Pi suppliers should stock longer cables e.g. [Little Bird Electronics - Flex Cable for Raspberry Pi Camera - 18 / 457mm](https://littlebirdelectronics.com.au/collections/raspberry-pi-cables-headers/products/flex-cable-for-raspberry-pi-camera-18-457mm)
 1|Moment 10x macro lens| Available from [Moment](https://momentlens.co/).
