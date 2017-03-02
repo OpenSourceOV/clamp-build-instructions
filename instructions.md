@@ -5,8 +5,8 @@
 
 Quantity | Part | Additional information
 ---------|------|---------
-1|3D-printed clamp housing parts (4 parts in total)|Models and more information available [here](http://opensourceov.org/).
-1|3D-printed light box foot|Models and more information available [here](http://opensourceov.org/)
+1|3D-printed clamp housing parts (4 parts in total)|Models and more information available in the [Clamp 3D Printing Resources](https://github.com/OpenSourceOV/clamp-3d-printing-resources) repository.
+1|3D-printed illumination foot|Models and more information available in the [Clamp 3D Printing Resources](https://github.com/OpenSourceOV/clamp-3d-printing-resources) repository
 4|50mm Superbright LED light strip sections|Usually come in long strips that can be cut into smaller sections. Typically used for accent lighting in kitchens etc. Can be purchased online from a number of places - these are some from Jaycar - [Ultra Bright IP67 Waterproof LED Flexible Strip Light](https://www.jaycar.com.au/ultra-bright-ip67-waterproof-led-flexible-strip-light/p/ZD0579). Note **50mm** sections are required.
 1|Raspberry Pi Camera v2 module| See RaspberryPi.org for [more information](https://www.raspberrypi.org/products/camera-module-v2/) and list of suppliers
 1|Rasberry Pi Camera long cable| Although the Camera comes with a short cable, a long cable makes life much easier. Most Raspberry Pi suppliers should stock longer cables e.g. [Little Bird Electronics - Flex Cable for Raspberry Pi Camera - 18 / 457mm](https://littlebirdelectronics.com.au/collections/raspberry-pi-cables-headers/products/flex-cable-for-raspberry-pi-camera-18-457mm)
@@ -59,7 +59,7 @@ The 3D printed clamp housing consists of four parts:
 
 ![](./images/3d-printed-parts-desc.jpg)
 
-1.  Solder 100mm lengths of 25 AWG red and black wires to the positive and negative terminals of one side of each 50mm light strip. Put two of the LED strips aside for later (to be used for the light box foot)
+1.  Solder 100mm lengths of 25 AWG red and black wires to the positive and negative terminals of one side of each 50mm light strip. Put two of the LED strips aside for later (to be used for the illumination foot)
 
     ![](./images/IMG_5928.jpg)
     ![](./images/IMG_5941.jpg)
@@ -122,11 +122,11 @@ The 3D printed clamp housing consists of four parts:
 
     ![](./images/IMG_5982.jpg)
 
-13. Paint the inside of the light box foot and attach the two remaining LED strips to two of the faces and feed the wires through the holes. Note the image shows the light foot printed with a transparent plastic. Transparent material is not required. The most important thing is that the light well is painted with a reflective material such as white paint (acrylic-based works well).
+13. Paint the inside of the illumination foot and attach the two remaining LED strips to two of the faces and feed the wires through the holes. Note the image shows the light foot printed with a transparent plastic. Transparent material is not required. The most important thing is that the light well is painted with a reflective material such as white paint (acrylic-based works well).
 
     ![](./images/IMG_5983.jpg)
 
-14. Insert the four 5mm x ~80mm bolts through the underside of the light box foot.
+14. Insert the four 5mm x ~80mm bolts through the underside of the illumination foot.
 
     ![](./images/IMG_5987.jpg)
 
@@ -150,7 +150,7 @@ We have suggested to use 4-pin mini molex connectors to connect the lights to th
 
 ![](./images/mini_molex_connectors.png)
 
-1. Strip the ends of the eight LED wires (4 from the LED housing and 4 from the light box foot) leaving around 4mm of exposed wire. Only four of the eight wires are shown in the picture.
+1. Strip the ends of the eight LED wires (4 from the LED housing and 4 from the illumination foot) leaving around 4mm of exposed wire. Only four of the eight wires are shown in the picture.
 
     ![](./images/IMG_6128.jpg)
 
