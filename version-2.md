@@ -37,7 +37,7 @@ Third hand tool| e.g. [Spark fun - Third Hand](https://www.sparkfun.com/products
 
 ### Parts
 
-* **Camera mount** - to mount the camera and bold the assembly together to the base
+* **Camera mount** - to mount the camera and bolt the assembly together to the base
 * **Lens clamp spacers** - used to increase the space between the top of the hand lens case and the bottom of the camera mount. Most hand lenses have a screw that sits proud and attaches the lens to the case. Without an appropriate spacer the hand lens sits at an angle. Only one need be used.
 * **LED mounts** - to mount the LED strips. A wider mount to be used with most hand lenses and thinner mounts if more space is needed for a wider hand lens. Only one mount set is used (thin or wide).
 * **Lens lock** - to hold the lens in place. Most lenses are firmly fixed to the case and don't move so these are normally not required.
