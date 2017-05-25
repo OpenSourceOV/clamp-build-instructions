@@ -81,16 +81,25 @@ Third hand tool| e.g. [Spark fun - Third Hand](https://www.sparkfun.com/products
     ![](./images-v2/20170508_131955.jpg)
     ![](./images-v2/20170508_132034.jpg)
 
+9. Assemble the lens locks as shown.
+
+    ![](./images-v2/20170525_160626.jpg)
+    ![](./images-v2/20170525_160949.jpg)
+
+10. Mount the Raspberry Pi camera to the camera mount (see [Version 1 instructions](./version-1.md) for more details on camera mounting) and attach the lens locks.
+
+    ![](./images-v2/20170525_161021.jpg)
+
 9. Insert 4 5mm x ~60mm hex head bolts through the underside of the spacer and set the assembly flat on the bench to keep the bolts from falling out.
 
     ![](./images-v2/20170508_122341.jpg)
     ![](./images-v2/20170508_122450.jpg)
 
-9. Add none or 1 or 2 washers to each of the four bolts. The number of washers set the distance between the overhead illumination (the LEDs) and the sample. Whether to use none, or 1, or 2 depends on the position of the lens, which in turn depends on the lens working distance (distance between the lens and the object in focus), which will be different for each hand lens. The goal is to have the LEDs angled perfectly at the center of the spacer hole and not be obstructed by the lens. Trial and error will determine the best configuration.
+9. Add none or 1 or 2 washers to each of the four bolts. The number of washers set the distance between the overhead illumination (the LEDs) and the sample. Whether to use none, or 1, or 2 depends on the position of the lens, which in turn depends on the lens working distance (distance between the lens and the object in focus), which will be different for each hand lens. The goal is to have the LEDs angled perfectly at the center of the spacer hole and not be obstructed by the lens. Trial and error will determine the best configuration. See [Configuration for larger working distances](#configuration-for-larger-working-distances) for an example of an alternative configuration.
 
     ![](./images-v2/20170508_122758.jpg)
 
-10. Solder the LED strips and attach to the thin and wide LED mounts. Whether to use the thin or wide mounts in the final assembly depends on the hand lens. The thin LED mounts provide maximum space to accomodate a wider hand lens but comes at the cost of pushing the LEDs away from the lens and increasing the angle of reflection i.e. less direct light hitting the lens. Whether or not this makes any difference to the clarity of embolism events has yet to be tested but maximising direct light intuitively seems better, hence the wider LED mounts which position the LEDs closer to the lens.
+10. Solder the LED strips and attach to the thin and wide LED mounts. Whether to use the thin or wide mounts in the final assembly depends on the hand lens. The thin LED mounts provide maximum space to accommodate a wider hand lens but comes at the cost of pushing the LEDs away from the lens and increasing the angle of reflection i.e. less direct light hitting the lens. Whether or not this makes any difference to the clarity of embolism events has yet to be tested but maximising direct light intuitively seems better, hence the wider LED mounts which position the LEDs closer to the lens.
 
     Solder 100mm lengths of 25 AWG red and black wires to the positive and negative terminals of one side of each 50mm light strip. Feed the wires through the holes in the LED mounts and stick the LED strips in place as shown.
 
@@ -123,29 +132,48 @@ Third hand tool| e.g. [Spark fun - Third Hand](https://www.sparkfun.com/products
 
     ![](./images-v2/20170508_124401.jpg)
 
-17. Mount the Raspberry Pi camera to the camera mount (see [Version 1 instructions](./version-1.md) for more details on camera mounting) and add the camera mount to the assembly. Note the hand lens will still be loose at this stage.
+17. Add the camera mount to the assembly. Note the hand lens will still be loose at this stage.
 
-    ![](./images-v2/20170508_124437.jpg)
+    ![](./images-v2/20170525_163126.jpg)
 
 18. Add 5mm washers and bolts to the protruding bolts and **lightly tighten** - needs to be loose enough to adjust the hand lens.
 
-    ![](./images-v2/20170508_124437.jpg)
-    ![](./images-v2/20170508_125423.jpg)
+    ![](./images-v2/20170525_163544.jpg)
+    ![](./images-v2/20170525_163619.jpg)
 
 19. Move the hand lens to roughly in the center (loosen the bolts if it can't be moved). The assembly should look something like this at this point:
 
     ![](./images-v2/20170508_125206.jpg)
-    ![](./images-v2/20170508_125141.jpg)
+    
 
 20. Turn the assembly over and position the lens so the Raspberry Pi camera is in the center.
 
+    View of the underside without the lens locks:
     ![](./images-v2/20170508_125519.jpg)
 
-21. Tighten the bolts to lock the lens in position.
+    With the lens locks:
+    ![](./images-v2/20170525_163807.jpg)
 
-    ![](./images-v2/20170508_125536.jpg)
+21. Adjust the lens locks using a screwdriver or pencil so they touch the sides of the hand lens. 
 
-22. When capturing images insert the illuminated base into the top assembly and fix with wing nuts (or bolts).
+    ![](./images-v2/20170525_163908.jpg)
+
+21. Tighten the bolts to lock the lens case in position.
+
+    ![](./images-v2/20170525_164432.jpg)
+
+22. Tighten the lens lock bolts to lock the lens in position. You may need to hold the lens locks in position while tightening.
+
+    ![](./images-v2/20170525_164305.jpg)
+
+23. The assembly should now look something like this:
+
+    ![](./images-v2/20170525_164505.jpg)
+    ![](./images-v2/20170525_164900.jpg)
+    ![](./images-v2/20170525_164922.jpg)
+
+
+22. Insert the illuminated base into the top assembly and loosely attach the wing nuts (or bolts) ready for application.
 
     ![](./images-v2/20170508_131314.jpg)
 
