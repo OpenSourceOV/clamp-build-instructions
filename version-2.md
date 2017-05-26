@@ -1,26 +1,40 @@
 # Clamp Version 2 Assembly Guide
 
+## Schema
+
+![](./images-v2/clamp-schematic.png)
+
+* **Camera mount** - to mount the camera and bolt the assembly together to the base
+* **Lens clamp spacers** - used to increase the space between the top of the hand lens case and the bottom of the camera mount. Most hand lenses have a screw that sits proud and attaches the lens to the case. Without an appropriate spacer the hand lens sits at an angle. Only one need be used.
+* **LED mounts** - to mount the LED strips. A wider mount to be used with most hand lenses and thinner mounts if more space is needed for a wider hand lens. Only one mount set is used (thin or wide).
+* **Lens lock** - to hold the lens in place. Most lenses are firmly fixed to the case and don't move so these are normally not required.
+* **Spacer** - to keep the sample in place and set the distance between hand lens and sample.
+* **Illuminated base** - to provide the source of transmitted light and base for bolting the assembly together (diffuser layer not shown, more details below)
+
 ## Parts
 
 Quantity | Part | Additional information
 ---------|------|---------
 1|3D-printed clamp parts|Models and more information available in the [Clamp 3D Printing Resources](https://github.com/OpenSourceOV/clamp-3d-printing-resources) repository.
-6|50mm Superbright LED light strip sections|Usually come in long strips that can be cut into smaller sections. Typically used for accent lighting in kitchens etc. Can be purchased online from a number of places - these are some from Jaycar - [Ultra Bright IP67 Waterproof LED Flexible Strip Light](https://www.jaycar.com.au/ultra-bright-ip67-waterproof-led-flexible-strip-light/p/ZD0579). Note **50mm** sections are required.
+6|50mm Superbright LED light strip sections|For the LED mounts and illuminated base. Usually come in long strips that can be cut into smaller sections. Typically used for accent lighting in kitchens etc. Can be purchased online from a number of places - these are some from Jaycar - [Ultra Bright IP67 Waterproof LED Flexible Strip Light](https://www.jaycar.com.au/ultra-bright-ip67-waterproof-led-flexible-strip-light/p/ZD0579). Note **50mm** sections are required.
 1|Raspberry Pi Camera v2 module| See RaspberryPi.org for [more information](https://www.raspberrypi.org/products/camera-module-v2/) and list of suppliers
 1|Rasberry Pi Camera long cable| Although the Camera comes with a short cable, a long cable makes life much easier. Most Raspberry Pi suppliers should stock longer cables e.g. [Little Bird Electronics - Flex Cable for Raspberry Pi Camera - 18 / 457mm](https://littlebirdelectronics.com.au/collections/raspberry-pi-cables-headers/products/flex-cable-for-raspberry-pi-camera-18-457mm)
 1|Hand lens (loupe)|10-20 magnification e.g. [Eschenbach 20x hand lense](https://www.magnifyingaids.com/Eschenbach_20X_Aplanatic_Loupe_Magnifier) is excellent.
-6|100mm lengths 25 AWG hookup cable (red)|
-6|100mm lengths 25 AWG hookup cable (black)|
-1|Sample pot of white acrylic paint|
-1|Small paintbrush|
-1|8mm x 90mm x 90mm (w x l x h) acrylic light diffuser (opaque plastic)
-4|5mm x ~70mm mushroom (or other) head bolts|
-4|5mm x ~60mm hex head bolts|
-16+|5mm nuts|
-20+|5mm washers|
-4|2.5mm x 8mm screws (flat head)|
-4|2.5mm nuts|
-3|4-pin mini molex connector sets (each set containing a male and female connector)|e.g. [Jaycar - 4 Pin Mini Molex Plug/Socket](https://www.jaycar.com.au/4-pin-mini-molex-plug-socket/p/PP2027) or [Sparkfun - JST RCY Connector - Male/Female Set (2-pin)](https://www.sparkfun.com/products/10501) (but using extra to make up the connections required).
+6|100mm lengths 25 AWG hookup cable (red)| For the LED mounts and illuminated base.
+6|100mm lengths 25 AWG hookup cable (black)| For the LED mounts and illuminated base.
+1|Sample pot of white acrylic paint| For the illuminated base.
+1|Small paintbrush| For the illuminated base.
+1|8mm x 90mm x 90mm (w x l x h) acrylic light diffuser (opaque plastic)|For the illuminated base.
+4|5mm x ~70mm mushroom (or other) head bolts| For the illuminated base.
+4|5mm x ~60mm hex head bolts| For the top assembly.
+16+|5mm nuts| For the top assembly.
+20+|5mm washers| For the top assembly.
+4|2.5mm x 8mm screws (flat head)| For the camera mount.
+4|2.5mm nuts| For the camera mount.
+6|3mm nuts| For the lens locks.
+2|3mm washers| For the lens locks.
+2|~35mm x 3mm bolts| For the lens locks.
+3|4-pin mini molex connector sets (each set containing a male and female connector)|e.g. [Jaycar - 4 Pin Mini Molex Plug/Socket](https://www.jaycar.com.au/4-pin-mini-molex-plug-socket/p/PP2027) or [Sparkfun - JST RCY Connector - Male/Female Set (2-pin)](https://www.sparkfun.com/products/10501) (but using extra to make up the connections required). For the LED mounts and illuminated base.
 
 ## Tools
 
@@ -34,17 +48,6 @@ Voltmeter/Multimeter|
 Third hand tool| e.g. [Spark fun - Third Hand](https://www.sparkfun.com/products/9317)
 
 ## Instructions
-
-### Parts
-
-* **Camera mount** - to mount the camera and bolt the assembly together to the base
-* **Lens clamp spacers** - used to increase the space between the top of the hand lens case and the bottom of the camera mount. Most hand lenses have a screw that sits proud and attaches the lens to the case. Without an appropriate spacer the hand lens sits at an angle. Only one need be used.
-* **LED mounts** - to mount the LED strips. A wider mount to be used with most hand lenses and thinner mounts if more space is needed for a wider hand lens. Only one mount set is used (thin or wide).
-* **Lens lock** - to hold the lens in place. Most lenses are firmly fixed to the case and don't move so these are normally not required.
-* **Spacer** - to keep the sample in place and set the distance between hand lens and sample.
-* **Illuminated base** - to provide the source of transmitted light and base for bolting the assembly together
-
-![](./images-v2/clamp-schematic.png)
 
 1. Paint the light well of the illuminated base white and leave to dry.
 
