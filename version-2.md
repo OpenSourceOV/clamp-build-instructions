@@ -15,7 +15,7 @@
 
 Quantity | Part | Additional information
 ---------|------|---------
-1|3D-printed clamp parts|Models and more information available in the [Clamp 3D Printing Resources](https://github.com/OpenSourceOV/clamp-3d-printing-resources) repository.
+1|3D-printed clamp parts|Models and more information available in the [Clamp 3D Printing Resources](https://github.com/OpenSourceOV/clamp-3d-printing-resources) repository (**version 2** parts required).
 6|50mm Superbright LED light strip sections|For the LED mounts and illuminated base. Usually come in long strips that can be cut into smaller sections. Typically used for accent lighting in kitchens etc. Can be purchased online from a number of places - these are some from Jaycar - [Ultra Bright IP67 Waterproof LED Flexible Strip Light](https://www.jaycar.com.au/ultra-bright-ip67-waterproof-led-flexible-strip-light/p/ZD0579). Note **50mm** sections are required.
 1|Raspberry Pi Camera v2 module| See RaspberryPi.org for [more information](https://www.raspberrypi.org/products/camera-module-v2/) and list of suppliers
 1|Rasberry Pi Camera long cable| Although the Camera comes with a short cable, a long cable makes life much easier. Most Raspberry Pi suppliers should stock longer cables e.g. [Little Bird Electronics - Flex Cable for Raspberry Pi Camera - 18 / 457mm](https://littlebirdelectronics.com.au/collections/raspberry-pi-cables-headers/products/flex-cable-for-raspberry-pi-camera-18-457mm)
