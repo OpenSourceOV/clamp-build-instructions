@@ -190,7 +190,11 @@ Third hand tool| e.g. [Spark fun - Third Hand](https://www.sparkfun.com/products
 
     ![](./images-v2/20170508_131501.jpg)
 
-24. Done!
+24. In most cases when a new sample is clamped in the device the focus will need to be micro-adjusted because the sample won't be completely flat. Adjusting the focus by adding/removing washers is a big pain (but doable if you really have to). A really simple way to add some easy additional micro-adjustment is to attach a ring of spongy material around the spacer hole. Two or three layers of neoprene (wetsuit material) works extremely well.
+
+    (picture coming soon)
+
+25. Done!
 
 ## Configuration for larger working distances
 
