@@ -8,7 +8,7 @@
 Quantity | Part | Additional information
 ---------|------|---------
 1|60mm length 18 AWG DC power cable (black)|
-1|100mm length 18 AWG DC power cable (black) (missing from picture below)|
+1|100mm length 18 AWG DC power cable (black)| Missing from picture below
 1|100mm length 18 AWG DC power cable (red)|
 1|300mm length 18 AWG DC power cable (black)|
 1|300mm length 18 AWG DC power cable (red)|
@@ -27,6 +27,7 @@ Quantity | Part | Additional information
 2|Large alligator clips (1 red 1 black)|e.g. [Jaycar - Alligator Clips](https://www.jaycar.com.au/alligator-clips-with-screw-pk-2/p/HM3025).
 -|Multiple lengths of difference sized heatshrink| Available in kits (e.g. [Sparkfun - Heat Shrink Kit](https://www.sparkfun.com/products/9353)) but often cheaper to buy in long strips and cut yourself.
 
+![](./images/circuit/20171031_154357-edited.jpg)
 
 ## Tools
 
@@ -105,7 +106,6 @@ Heatgun or lighter| Used to heat the heatshrink.
     ![](./images/circuit/20171031_162739.jpg)
     ![](./images/circuit/20171031_162927.jpg)
     ![](./images/circuit/20171031_163103.jpg)
-    ![](./images/circuit/20171031_163250.jpg)
     ![](./images/circuit/20171031_163250.jpg)
 
 12. At this point you should have something that looks like this:
