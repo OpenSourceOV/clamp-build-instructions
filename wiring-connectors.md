@@ -11,8 +11,8 @@ We have suggested to use 4-pin mini molex connectors to connect the lights to th
 
 2. You can attach the wire to the pins using a crimping tool but a soldered connection is better. Do one pin at a time. Insert the wire part way into the pin as shown below and use a third hand clip to secure the wire to the pin while soldering.
 
-    (picture required)
-
+    ![](./images/20171031_154950.jpg)
+    
 3. Add a small amount of solder to the tip of the soldering iron then push the tip into the pin so the solder touches the exposed wire (which is touching the pin). Leave for a brief moment so the iron (via the little bit of solder) heats the wires and pin. Now add more solder. The solder should flow in and around the wires. As soon as it does the remove the soldering iron. If the pin gets too hot then the wire insulation will melt, so the trick is to have the soldering iron heating the pin long enough so enough solder is added ensuring a good connection but not so long that the wire insulation melts and becomes a mess (it always melts a little). Make sure the solder stays within the pin channel. If you're having problems later inserting the pin into housing then this could be the problem. 
 
     ![](./images/IMG_6129.jpg)
