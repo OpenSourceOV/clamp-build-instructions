@@ -19,7 +19,7 @@ Quantity | Part | Additional information
 6|50mm Superbright LED light strip sections|For the LED mounts and illuminated base. Usually come in long strips that can be cut into smaller sections. Typically used for accent lighting in kitchens etc. Can be purchased online from a number of places - these are some from Jaycar - [Ultra Bright IP67 Waterproof LED Flexible Strip Light](https://www.jaycar.com.au/ultra-bright-ip67-waterproof-led-flexible-strip-light/p/ZD0579). Note **50mm** sections are required.
 1|Raspberry Pi Camera v2 module| See RaspberryPi.org for [more information](https://www.raspberrypi.org/products/camera-module-v2/) and list of suppliers
 1|Rasberry Pi Camera long cable| Although the Camera comes with a short cable, a long cable makes life much easier. Most Raspberry Pi suppliers should stock longer cables e.g. [Little Bird Electronics - Flex Cable for Raspberry Pi Camera - 18 / 457mm](https://littlebirdelectronics.com.au/collections/raspberry-pi-cables-headers/products/flex-cable-for-raspberry-pi-camera-18-457mm)
-1|Hand lens (loupe)|10-20 magnification e.g. [Eschenbach 20x hand lense](https://www.magnifyingaids.com/Eschenbach_20X_Aplanatic_Loupe_Magnifier) is excellent.
+1|Hand lens (loupe)|10-20 magnification e.g. Eschenbach 20x achromatic hand lens is excellent.
 6|100mm lengths 25 AWG hookup cable (red)| For the LED mounts and illuminated base.
 6|100mm lengths 25 AWG hookup cable (black)| For the LED mounts and illuminated base.
 1|Sample pot of white acrylic paint| For the illuminated base.
